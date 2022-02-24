@@ -37,7 +37,7 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Asif Javed
+   ROCK NOMAN
    ▄︻̷̿┻̿═━一
    THE ANONYMOUS ROCK NOMAN TRICKER 
    THE LEGEND ℒℴνℯ
